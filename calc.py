@@ -11,8 +11,8 @@ if op == "+":
 elif op == "-":
     print("Result:", num1 - num2)
 
-elif op == "*":
-    print("Result:", num1 * num2)
+elif op == "**":
+    print("Result:", num1 ** num2)
 
 elif op == "/":
     if num2 == 0:
